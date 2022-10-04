@@ -79,4 +79,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```
+# CircleCi Status
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/xzendercage/rory/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/xzendercage/rory/tree/master)
