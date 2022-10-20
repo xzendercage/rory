@@ -46,7 +46,7 @@ We cant prohibit reselling of our project but if you do please follow the licens
 # Installation ⚙
 - ``git clone https://github.com/xzendercage/rory``
 - **Fill** ``config.json``
-- ``cd DevEvilBot-Discord-Bot``
+- ``cd rory``
 - ``npm i``
 - ``node .`` or ``node index.js``
 <br>
